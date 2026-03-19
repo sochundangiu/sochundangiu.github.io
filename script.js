@@ -5,7 +5,7 @@
 // ── Configuration ────────────────────────────
 const CONFIG = {
   // Thay đổi ID video YouTube ở đây (phần mã sau v=)
-  youtubeId: 'aJSvAK6OCgk', // Vd: aJSvAK6OCgk
+  youtubeId: '5mgtlgkTl8I', // Vd: aJSvAK6OCgk
   defaultVolume: 100
 };
 
